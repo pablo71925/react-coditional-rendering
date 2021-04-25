@@ -1,0 +1,19 @@
+.students-container {
+   border: 2px solid red ;
+   text-align: center;
+   margin-bottom: 2px;
+  
+
+ 
+}  
+.students-without-stock{
+   color: red;
+}
+
+.price{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   margin: 0 auto;
+  }
+  

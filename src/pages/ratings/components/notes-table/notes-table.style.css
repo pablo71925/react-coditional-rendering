@@ -1,0 +1,15 @@
+.notes-table-container {
+   width: 95%; 
+   margin: 0 auto;
+   min-height: 340px;
+   border: 1px solid green ;
+   margin-top: 10px;
+ }
+
+
+.titulo{
+   font-weight: bold;
+   text-align: left;
+   margin-bottom: 1px;
+  
+}
